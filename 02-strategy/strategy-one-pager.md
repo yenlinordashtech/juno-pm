@@ -26,7 +26,5 @@ The one-way-door risk is releasing generic LLM responses that feel impersonal or
 
 IN: JUNO reviews test conversations, evaluates them against NURI’s quality standards, identifies recurring issues, prioritizes improvements, and recommends release readiness.
 
-OUT:
-
-JUNO will not independently release, deploy, or make the final product decision; human approval is always required.
+OUT:JUNO will not independently release, deploy, or make the final product decision; human approval is always required.
 JUNO will not treat functional correctness or the absence of bugs as proof of conversation quality; readiness must be supported by user-behavior and quality evidence.
